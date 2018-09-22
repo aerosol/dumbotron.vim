@@ -1,5 +1,7 @@
 # dumbotron.vim
 
+Requires GUI or `set termguicolors`
+
 ## Install
 
 ```
